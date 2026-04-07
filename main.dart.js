@@ -76000,8 +76000,8 @@ m=n.r
 m===$&&A.c()
 m.sa7(0,B.e.G((s-r)/q,2))
 if(s>0.001&&s<7)p=2.5
-else if(s>=7&&s<13)p=5
-else p=s>=13?5:0
+else if(s>=7&&s<11)p=3
+else p=s>=11?3:0
 o=s+p
 m=n.y
 m===$&&A.c()
@@ -77622,8 +77622,8 @@ if(n==null)n=0
 if(n===0){q.z.sa7(0,"0.00")
 return}q.i0(q.z,(p-o)/n,2)
 if(p>0.001&&p<7)s=2.5
-else if(p>=7&&p<13)s=5
-else s=p>=13?5:0
+else if(p>=7&&p<11)s=3
+else s=p>=11?3:0
 r=p+s
 q.i0(q.at,r,2)
 q.a5Z(r)
